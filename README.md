@@ -7,7 +7,7 @@
   Tested on Windows 10.
 </div>
 
-<h4>Example</h4>
+### Example
 ```
 Matrix A = Matrix("matrixA.txt");
 A.print();
