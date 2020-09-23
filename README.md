@@ -8,16 +8,18 @@
 </div>
 
 <h4>Example</h4>
-
-<pre>
-<code>
+```
 Matrix A = Matrix("matrixA.txt");
+A.print();
+
 Matrix B = Matrix("matrixB.txt");
+B.print();
+
 std::cout << "==============" << std::endl;
+
 Matrix C = A + B; // A * B ...
 C.print();
-</code>
-</pre>
+```
 
 <div>
   <h4>Supports:</h4>
