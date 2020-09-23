@@ -9,14 +9,15 @@
 
 <h4>Example</h4>
 
+<pre>
 <code>
-Matrix A = Matrix("matrixA.txt");<br/>
-Matrix B = Matrix("matrixB.txt");<br/><br/>
-std::cout << "==============" << std::endl;<br/><br/>
-Matrix C = A + B; // A * B ...<br/>
+Matrix A = Matrix("matrixA.txt");
+Matrix B = Matrix("matrixB.txt");
+std::cout << "==============" << std::endl;
+Matrix C = A + B; // A * B ...
 C.print();
 </code>
-
+</pre>
 
 <div>
   <h4>Supports:</h4>
