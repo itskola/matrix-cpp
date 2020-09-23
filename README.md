@@ -1,6 +1,6 @@
 # matrix-cpp
 
-<h3>Small implementaion of Matrices in C++ to simplify process of working with them.</h3>
+<h3>Small implementation of Matrices in C++ to simplify process of working with them.</h3>
 <div>
   To use this class, add it directly into your project (or create library).
   <br/>
